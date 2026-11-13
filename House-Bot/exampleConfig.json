@@ -1,0 +1,7 @@
+{
+	"token": "your_token_here",
+	"guildID": "your_guild_id_here",
+	"timeInterval": 300000,
+	"pointsPerInterval": 15,
+	"minimumVoice": 2
+}
